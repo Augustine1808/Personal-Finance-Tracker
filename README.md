@@ -2,18 +2,10 @@
 
 # Personal Finance Tracker Dashboard
 
-[![Dashboard Screenshot](link_to_your_image.png)](link_to_your_image.png)
 
 > An interactive dashboard for tracking personal finances, providing insights into spending, income, and trends.
 
-## Table of Contents
-* [Overview](#overview)
-* [Key Features](#key-features)
-* [Technical Skills Demonstrated](#technical-skills-demonstrated)
-* [Usage](#usage)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
+
 
 ## Overview
 
@@ -32,5 +24,5 @@ This dashboard provides a comprehensive view of personal financial data, allowin
 * **Data Visualization:** Proficient use of charts and graphs to represent financial data effectively.
 * **Dashboard Design:** Creation of a user-friendly and informative dashboard layout.
 * **Data Analysis:** Ability to extract meaningful insights from financial data.
-* **Business Intelligence (BI) Tools:** (If applicable, mention the specific tool used, e.g., "Built using Power BI", "Developed with Tableau", etc.)
+* **Tools:** Built using Microsoft Excel
 
